@@ -60,4 +60,4 @@ signed main() {
         cout<<"Number of feet of cable required is "<<ans<<"."<<endl;
     }
     
-    return 0;
+    return 0;}
